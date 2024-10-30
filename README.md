@@ -1,9 +1,9 @@
 # Dragon Ball Clicker
-#### Juego desarrollado como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.<br/>
+#### Aplicación móvil desarrollada como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.<br/>
 <br/>
 
 #### 📜 Información general
-El proyecto consiste en desarrollar un juego estilo _clicker_, en el cual debe existir un elemento clicable y la posibilidad de adquirir mejoras y potenciadores a cambio de puntos conseguidos en el juego. Se eligió _Dragon Ball_ como temática.<br/>
+El proyecto es el desarrollo de una aplicación para móviles Android que consiste en un juego estilo _clicker_, en el cual debe existir un elemento clicable y la posibilidad de adquirir mejoras y potenciadores a cambio de puntos conseguidos en el juego. Se eligió _Dragon Ball_ como temática.<br/>
 Esta es la segunda versión del juego, en la que se agregó una conexión con una base de datos SQL para poder guardar la partida mediante un nombre de usuario y una contraseña.<br/>
 
 El proyecto fue desarrollado de manera conjunta con otros dos compañeros de clase, Manuel Carro y Simón Souto.
